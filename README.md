@@ -34,7 +34,7 @@
 ---
 </details>
 <details>
-<summary align="center"><small><i><b><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px"> Skills</b></i></small></summary> 
+<summary align="center"><small><i><b>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px"></b></i></small></summary> 
 </br>
   
 | <b>Programming Languages</b> | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  |  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |  
@@ -67,9 +67,22 @@
 | <b> 3️⃣ Following me</b> | Follow me on [![Github](https://img.shields.io/badge/-Hemapriya_Kanagala-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/hemapriya-kanagala) to join me on my exciting journey. Together, let's see how far I can go!  |  
 |---|---|
 
-<p align="left"><b>- 4️⃣ Starring my repositories </b>: 
+<p align="left"><b>- 4️⃣ Starring my repositories </b>: </p>
 <p align="left">Do 🌟 my repository if you find my project interesting, at least your star could make someone's day. </p>
 
+---
+</details>
+<details>
+<summary align="center"><small><i><b>Steps to Build Your Own Awesome GitHub Profile Readme!</b></i></small></summary>  
+</br>
+<p align="left">Want to build your own awesome profile readme like mine? It's simple!</p>
+<p align="left">GitHub has introduced a new feature called <b>Profile Readmes</b>, allowing you to showcase your personality and skills right on your profile page. Here's how you can get started:</p>
+<p align="left">1️⃣ Start by creating a unique GitHub repository with your username as the repository name. For example, my username is "hemapriya-kanagala", So I named the repository "hemapriya-kanagala".</p>
+<p align="left">2️⃣ Once you've created the repository, add a README.md file to it.</p>
+<p align="left">3️⃣ Feel free to unleash your creativity and personalize your README.md with captivating content about yourself, your projects, or anything else that represents your unique persona.</p>
+<p align="left">4️⃣ That's all there is to it! GitHub will automatically display the README.md from your profile readme repository on your profile page.</p>
+<p align="left">Don't forget to give it a ⭐️ if you found this information helpful.</p>
+  
 ---
 </details>
 <details>
