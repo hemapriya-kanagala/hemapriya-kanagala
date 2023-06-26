@@ -67,7 +67,8 @@
 | <b> 3️⃣ Following me</b> | Follow me on [![Github](https://img.shields.io/badge/-Hemapriya_Kanagala-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/hemapriya-kanagala) to join me on my exciting journey. Together, let's see how far I can go!  |  
 |---|---|
 
-<p align="left"><b>- 4️⃣ Starring my repositories </b>: Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏. </p>
+<p align="left"><b>- 4️⃣ Starring my repositories </b>: 
+<p align="left">Do 🌟 my repository if you find my project interesting, at least your star could make someone's day. </p>
 
 ---
 </details>
