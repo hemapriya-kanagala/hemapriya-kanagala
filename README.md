@@ -3,7 +3,7 @@
 <details align="middle">
 <summary><b><small><i>Open my profile by clicking here.<small><i></b></summary>
   
-### <small><i>Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Hemapriya](https://github.com/hemapriya-kanagala) 👩‍💻.</small></i>
+### <small><i>Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Hemapriya](https://www.linkedin.com/in/hemapriya-kanagala/) 👩‍💻.</small></i>
 ### <small><i>Contact Me 🤝</small></i>
 <a href="https://www.linkedin.com/in/hemapriya-kanagala/">
   <img align="center" alt="Hema's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
