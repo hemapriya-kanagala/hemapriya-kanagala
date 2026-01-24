@@ -14,11 +14,13 @@
 
 ---
 
-I’m a Computer Science Master’s graduate from the <a href="https://www.ou.edu/">**University of Oklahoma**</a>, and I completed my undergraduate studies in Computer Science and Engineering at <a href="https://www.kluniversity.in/">**KL University**</a>.
+I’m a Computer Science Master’s graduate from the <a href="https://www.ou.edu/">**University of Oklahoma**</a>, and I did my
+undergraduate studies in Computer Science and Engineering at <a href="https://www.kluniversity.in/">**KL University**</a>.
 
-While pursuing my Master’s, I worked as a Student Programmer at the University of Oklahoma,
-supporting internal web applications and university websites using **ASP.NET / C#**,
-**SQL Server**, and **Adobe Experience Manager**.
+While pursuing my Master’s, I worked as a Student Programmer at the **Language Learning Center**, 
+which is part of the <a href="https://www.ou.edu/cas/modlang">**MLLL Department**</a> 
+at the **University of Oklahoma**, supporting internal web applications and department websites 
+using **ASP.NET / C#**, **SQL Server**, and **Adobe Experience Manager**.
 
 ✍️ **Writing:** I write on <a href="https://dev.to/hemapriya_kanagala">**Dev.to**</a>, mostly about things I’m learning,
 building, or trying to understand more deeply.
