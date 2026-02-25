@@ -1,13 +1,20 @@
 ### Hello there 👋, I'm [Hemapriya](https://www.linkedin.com/in/hemapriya-kanagala/)
 
 <a href="https://www.linkedin.com/in/hemapriya-kanagala/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
 </a>
 <a href="mailto:hemapriyakanagala@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" />
 </a>
 <a href="https://dev.to/hemapriya_kanagala">
-  <img align="left" alt="Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
+  <img align="left" alt="Dev.to" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" />
+</a>
+<a href="https://calendly.com/hemapriyakanagala/coffee-chat">
+  <img align="left" alt="Calendly" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/calendly.svg" />
 </a>
 
 <br />
@@ -41,7 +48,12 @@ building, or trying to understand more deeply.
 
 ---
 
-### A Small Note
-
+### 🤝 Let’s Connect
 If anything here resonates with you, feel free to reach out.  
-I enjoy learning from others and sharing along the way.
+
+You can connect with me on LinkedIn, send me an email,  
+Or book a quick 15-minute coffee chat here:
+
+👉 https://calendly.com/hemapriyakanagala/coffee-chat  
+
+I’m always happy to talk about tech, learning, or career journeys.
