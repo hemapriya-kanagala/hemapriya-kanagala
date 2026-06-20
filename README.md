@@ -29,10 +29,10 @@ which is part of the <a href="https://www.ou.edu/cas/modlang">**MLLL Department*
 at the **University of Oklahoma**, supporting internal web applications and department websites 
 using **ASP.NET / C#**, **SQL Server**, and **Adobe Experience Manager**.
 
-✍️ **Writing:** I write on <a href="https://dev.to/hemapriya_kanagala">**Dev.to**</a>, mostly about things I’m learning,
-building, or trying to understand more deeply.
+✍️ **Writing:** I write on <a href="https://dev.to/hemapriya_kanagala">**DEV Community**</a>, mostly about things I'm learning, building, communities, career growth, and opportunities for developers.
 
-🌐 **Previously Explored:** Web3, Cybersecurity <br>
+I also publish **Dev Opportunity Radar**, a weekly series where I share fellowships, grants, hackathons, startup programs, learning resources, communities, and other opportunities that developers, students, and builders might find valuable.
+
 ☁️ **Currently Exploring:** Cloud computing <br>
 
 ---
