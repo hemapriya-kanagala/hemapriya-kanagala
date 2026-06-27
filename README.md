@@ -12,10 +12,6 @@
   <img align="left" alt="Dev.to" width="22px"
        src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" />
 </a>
-<a href="https://calendly.com/hemapriyakanagala/coffee-chat">
-  <img align="left" alt="Calendly" width="22px"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/calendly.svg" />
-</a>
 
 <br />
 
@@ -51,11 +47,6 @@ I also publish **Dev Opportunity Radar**, a weekly series where I share fellowsh
 ---
 
 ### 🤝 Let’s Connect
-If anything here resonates with you, feel free to reach out.  
+If anything here resonates with you, feel free to reach out.
 
-You can connect with me on LinkedIn, send me an email,  
-Or book a quick 15-minute coffee chat here:
-
-👉 https://calendly.com/hemapriyakanagala/coffee-chat  
-
-I’m always happy to talk about tech, learning, or career journeys.
+You can connect with me on LinkedIn or send me an email. I'm always happy to talk about tech, learning, developer communities, career growth, or just connect with fellow builders.
